@@ -15,7 +15,8 @@ Este proyecto implementa un jugador avanzado de Piedra, Papel o Tijeras (RPS) qu
 ## Estructura del Proyecto
 
 ```
-project/
+
+Rock_Paper_Scissors_Nano/
 ├── main.py          # Punto de entrada principal
 ├── RPS.py           # Implementación del jugador adaptativo
 ├── RPS_game.py      # Lógica del juego y bots predefinidos
