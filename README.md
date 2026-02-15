@@ -86,6 +86,11 @@ pattern_lengths=[3,4,5] # Longitudes de patrones a analizar
 - Python 3.6 o superior
 - Módulos estándar de Python (collections, random, unittest, numpy)
 
+## Tecnologías Utilizadas
+
+[![Python](https://www.python.org/static/community_logos/python-logo-master-v3-flattened.png)](https://www.python.org)
+[![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)](https://git-scm.com)
+
 ## Nota
 
 Desarrollado como parte de un proyecto de inteligencia artificial para el juego de Piedra, Papel o Tijeras.
